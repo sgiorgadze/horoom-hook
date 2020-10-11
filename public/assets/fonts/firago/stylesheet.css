@@ -1,0 +1,116 @@
+/*ROMAN*/
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-Bold.woff') format('woff'),
+	url("FiraGO-Bold.eot") format('eot'),
+	url("FiraGO-Bold.woff2") format('woff2');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-ExtraBold.woff') format('woff'),
+	url("FiraGO-ExtraBold.eot") format('eot'),
+	url("FiraGO-ExtraBold.woff2") format('woff2');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-SemiBold.woff') format('woff'),
+	url("FiraGO-SemiBold.eot") format('eot'),
+	url("FiraGO-SemiBold.woff2") format('woff2');
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-Book.woff') format('woff'),
+	url("FiraGO-Book.eot") format('eot'),
+	url("FiraGO-Book.woff2") format('woff2');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-Regular.woff') format('woff'),
+	url("FiraGO-Regular.eot") format('eot'),
+	url("FiraGO-Regular.woff2") format('woff2');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-Medium.woff') format('woff'),
+	url("FiraGO-Medium.eot") format('eot'),
+	url("FiraGO-Medium.woff2") format('woff2');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-Light.woff') format('woff'),
+	url("FiraGO-Light.eot") format('eot'),
+	url("FiraGO-Light.woff2") format('woff2');
+	font-weight: 200;
+	font-style: normal;
+}
+/*ROMAN*/
+/*ITALIC*/
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-BoldItalic.woff') format('woff'),
+	url("FiraGO-BoldItalic.eot") format('eot'),
+	url("FiraGO-BoldItalic.woff2") format('woff2');
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-ExtraBoldItalic.woff') format('woff'),
+	url("FiraGO-ExtraBoldItalic.eot") format('eot'),
+	url("FiraGO-ExtraBoldItalic.woff2") format('woff2');
+	font-weight: 900;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-SemiBoldItalic.woff') format('woff'),
+	url("FiraGO-SemiBoldItalic.eot") format('eot'),
+	url("FiraGO-SemiBoldItalic.woff2") format('woff2');
+	font-weight: 800;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-BookItalic.woff') format('woff'),
+	url("FiraGO-BookItalic.eot") format('eot'),
+	url("FiraGO-BookItalic.woff2") format('woff2');
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-Italic.woff') format('woff'),
+	url("FiraGO-Italic.eot") format('eot'),
+	url("FiraGO-Italic.woff2") format('woff2');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-MediumItalic.woff') format('woff'),
+	url("FiraGO-MediumItalic.eot") format('eot'),
+	url("FiraGO-MediumItalic.woff2") format('woff2');
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'FiraGO';
+	src: url('FiraGO-LightItalic.woff') format('woff'),
+	url("FiraGO-LightItalic.eot") format('eot'),
+	url("FiraGO-LightItalic.woff2") format('woff2');
+	font-weight: 200;
+	font-style: italic;
+}
+/*ITALIC*/
